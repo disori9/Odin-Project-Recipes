@@ -1,0 +1,45 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 720px;
+    height: auto;
+}
+.title{
+    font-size: 50px;
+    margin: 0;
+    text-align: center;
+}
+
+.home{
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 15px auto;
+    width: fit-content;
+}
+
+.home a{
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    border: 1px black solid;
+}
+
+.desc{
+    width: 720px;
+    text-align: justify;
+    margin: 10px auto;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul, ol{
+    display: block;
+    margin: 15px auto;
+    width: 720px;
+    text-align: left;
+}
